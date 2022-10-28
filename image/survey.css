@@ -1,0 +1,58 @@
+.name{
+ width: 100%;
+ height: 70%;
+ border: none;
+ background-color: #f2f2f2;
+ padding: 12px;
+ margin-top: 2%;
+ border-radius: 8px;
+ 
+}
+body{
+ margin-left: 10%;
+ margin-right: 10%;
+background-image:url(./image/office.jpg) ;
+background-size: contain;
+
+}
+
+
+.free{
+ display: grid;
+}
+.sign{
+ background-color: green;
+ width: 100%;
+ border: 0;
+ margin-top: 10px;
+ padding: 10px 0px;
+ color: white;
+ border-radius: 8px;
+ cursor: pointer;
+}
+.labelspace{
+ margin-bottom: 20px;
+
+}
+.labelspace input{
+ border: 0;
+ width: 90%;
+ outline: none;
+ border-radius:8px ;
+ 
+
+}
+form{
+ background-color: darkblue ;
+ color:yellow;
+ width: 60%;
+ height: 100%;
+ margin: auto;
+ padding:20px ;
+
+}
+input:focus{
+border: 1px solid green;
+}
+
+
